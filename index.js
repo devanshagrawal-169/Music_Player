@@ -1,7 +1,3 @@
-// github.com/webFardin
-// twitter.com/webFardin0
-// instagram.com/webFardin
-// t.me/webFardin
 
 "use strict";
 
